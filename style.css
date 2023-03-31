@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://e0.pxfuel.com/wallpapers/230/508/desktop-wallpaper-blackjack-casino-game.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'trebuchet MS';
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+#message-el{
+	margin-top: 0;
+	font-size: 30px;
+	font-style: italic;
+
+}
+#player-el{
+	font-size: 25px;
+	color: #f70509;
+}
+
+h1{ 
+	margin-top: 6rem;
+	margin-bottom: 0;
+	font-size: 60px;
+    color: #ebcf34;
+}
+p{ 
+	font-size: 25px;
+}
+
+button{
+	text-decoration-color: #016f32;
+	font-weight: bold;
+	background-color: #ebcf34;
+	width: 150px;
+	border:none;
+    border-radius: 6px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 7px;
+}
